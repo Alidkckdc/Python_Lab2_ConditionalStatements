@@ -1,2 +1,2 @@
 # Python_Lab2_ConditionalStatements
-Zodiac finder
+The zodiacs repeat themselves every 12 year. That is why we divide the birthyear to 12 and use its remainder. The remainders is minimum 0 and maximum is 11. That means we have 12 possible remainder. We give to every zodiac a number between 0-11. When we divide your birthyear to 12 and get the remainder we get number of your zodiac's number. Finally with your zodiac's number program can find your zodiac.
