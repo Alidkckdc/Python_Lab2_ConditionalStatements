@@ -1,0 +1,2 @@
+# Python_Lab2_ConditionalStatements
+Zodiac finder
